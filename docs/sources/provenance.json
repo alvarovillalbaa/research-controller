@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "source_repository": "alvarovillalbaa/lab",
+  "source_revision": "e8524020e57058801c958d3b3008db147e43ebb4",
+  "original_design": {
+    "path": "docs/sources/pre-split/docs/specs/steps.md",
+    "section": "14. Phase 10 — self-improvement loop",
+    "lines": [
+      767,
+      807
+    ]
+  },
+  "original_backlog": {
+    "path": "docs/sources/pre-split/docs/IMPLEMENTATION_BACKLOG.md",
+    "section": "Self-Improvement"
+  },
+  "intent": "Separate reusable bounded model-research orchestration from Lab demonstrations and Open Evals scoring/prompt improvement.",
+  "status": "planned",
+  "implementation_imported": false
+}
