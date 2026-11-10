@@ -19,6 +19,7 @@ implementation. This document specifies behavior, not an implemented wire schema
 ## Component boundaries
 
 - Generation/curation adapters produce permitted, provenance-bearing training data.
+- Attempt/verification adapters retain actual student responses and objective scores before accepted traces become training inputs.
 - Training adapters consume explicit model/data/tokenizer artifacts and return candidate artifacts.
 - Evaluation adapters return frozen evaluator identity, coverage, metrics, uncertainty, and gate results.
 - Execution adapters own actual job submission/cancellation and observed lifecycle.

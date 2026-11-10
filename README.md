@@ -3,7 +3,8 @@
 Last updated: 2026-11-10
 
 A planned reusable controller for bounded candidate-model research:
-generate or select tasks, obtain verified training data, request candidate
+generate or select tasks, collect student attempts and objective verification,
+obtain eligible training data, request candidate
 training, evaluate a frozen holdout, and propose promotion or rollback.
 
 **Status: planned.** This repository establishes the standalone product,
