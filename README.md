@@ -1,5 +1,9 @@
 # research-controller
 
+<!-- project-family:start -->
+> **Project family:** [AI Research Lab](https://github.com/alvarovillalbaa#ai-research-lab) · **Area:** Research orchestration
+<!-- project-family:end -->
+
 Last updated: 2026-11-10
 
 A planned reusable controller for bounded candidate-model research:
